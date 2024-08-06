@@ -1,7 +1,7 @@
 # graphql-withmicroservice
 To interact with different microservices using Apollo Server and TypeScript, leveraged Apollo Federation to create a unified GraphQL API
 
-Certainly! Here’s a concise `README.md` with instructions for the example setup:
+Here’s a concise `README.md` with instructions for the example setup:
 
 ---
 
